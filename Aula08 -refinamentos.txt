@@ -1,0 +1,17 @@
+1 -Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule a diferença deles e mostre o resultado. 
+
+    1. Ler ou pegar esses dois números (A) e (B)
+    2. Calculo a soma desses números, A + B= x
+
+2 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o produto deles e mostre o resultado.
+
+    1. Ler ou pegar esses dois números: (A) e (B)
+    2. Calculo a soma desses números: A + B
+    3. Mostro o resultado desse cálculo: A + B = X    
+
+3 - Escreva um algoritmo que leia dois números inteiros 'a' e 'b', calcule o quociente entra eles e mostre o resultado.
+
+    1. Ler ou pegar esses dois números: (A) e (B)
+    2. Calculo a soma desses números: A + B
+    3. Mostro o resultado desse cálculo: A + B = X   
+    4. quociente do calculo: x
