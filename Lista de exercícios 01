@@ -1,0 +1,88 @@
+
+	1.	ler (a)
+ler (b)
+soma = a + b
+mostrar soma
+	2.	ler (a)
+ler (b)
+ler (c)
+media = (a + b + c) / 3
+mostrar media
+	3.	ler (base)
+ler (altura)
+area = base * altura
+mostrar area
+	4.	ler (base)
+ler (altura)
+area = (base * altura) / 2
+mostrar area
+	5.	ler (Celsius)
+F = (9 * Celsius + 160) / 5
+mostrar F
+	6.	ler (nota1)
+ler (peso1)
+ler (nota2)
+ler (peso2)
+ler (nota3)
+ler (peso3)
+media = (nota1peso1 + nota2peso2 + nota3*peso3) / (peso1 + peso2 + peso3)
+mostrar media
+	7.	ler (comprimento)
+ler (largura)
+ler (altura)
+volume = comprimento * largura * altura
+mostrar volume
+	8.	ler (produto1)
+ler (produto2)
+ler (produto3)
+total = produto1 + produto2 + produto3
+mostrar total
+	9.	ler (tempo_horas)
+ler (velocidade)
+distancia = velocidade * tempo_horas
+tempo_minutos = tempo_horas * 60
+mostrar distancia
+mostrar tempo_minutos
+	10.	ler (dias)
+horas = dias * 24
+mostrar horas
+	11.	ler (minutos)
+segundos = minutos * 60
+mostrar segundos
+	12.	ler (salario)
+ler (aumento)
+novo_salario = salario + aumento
+mostrar novo_salario
+	13.	ler (capital)
+ler (taxa_juros)
+ler (tempo_meses)
+montante = capital + (capital * taxa_juros * tempo_meses)
+mostrar montante
+	14.	ler (valor_compra)
+ler (valor_pago)
+troco = valor_pago - valor_compra
+mostrar troco
+	15.	ler (peso)
+ler (altura)
+imc = peso / (altura * altura)
+mostrar imc
+	16.	ler (raio)
+pi = 3.14
+perimetro = 2 * pi * raio
+mostrar perimetro
+	17.	ler (idade1)
+ler (idade2)
+diferenca = idade1 - idade2
+mostrar diferenca
+	18.	ler (distancia_km)
+ler (litros_gastos)
+consumo = distancia_km / litros_gastos
+mostrar consumo
+	19.	ler (valor_total)
+ler (num_pessoas)
+valor_por_pessoa = valor_total / num_pessoas
+mostrar valor_por_pessoa
+	20.	ler (valor_produto)
+ler (percentual_desconto)
+valor_com_desconto = valor_produto * (1 - percentual_desconto / 100)
+mostrar valor_com_desconto
